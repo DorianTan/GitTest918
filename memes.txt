@@ -31,7 +31,8 @@ Yellow, black. Yellow, black.
 ARE YOU ENTERTAINED YET ??????
 
 Bleach, Bleach.
-  
+ Wesh alors!
+
 Ooh, black and yellow!
 Let's shake it up a little.
 
@@ -108,17 +109,22 @@ Three days grade school,
 three days high school.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> KappaPride
 Rose are Red Violets are blue Omaewa Mu Shinderu!
 Rose are Red Violets are blue Omaewa Mu Shinderu!
 Rose are Red Violets are blue Omaewa Mu Shinderu!
 
-=======
 SORIEKETON !!!  
+<<<<<<< HEAD
 >>>>>>> b27782c3bc6b4be9e8d56812ce428e2605b304fc
 >>>>>>> 8fd5140f0486e81cd8ef30d6a69e1e5412570f44
+=======
+>>>>>>> KappaPride
 Those were awkward.
 
   
