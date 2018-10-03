@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 DEAD MEMES ARE EVERYWHERE
 
-
-=======
-First! J'ai gagné c'est moi qui suis en haut
->>>>>>> 8327f2e8b521d9a1269510e7daee2ac8688feef8
+//Second! J'ai perdu c'est pas moi qui suis en haut
 https://www.youtube.com/watch?v=QsGYNfagHlU
 
 According to all known laws
