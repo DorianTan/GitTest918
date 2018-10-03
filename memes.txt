@@ -20,7 +20,7 @@ because bees don't care
 what humans think is impossible.
 
   
-Yellow, black. Yellow, black.
+Yellow, black. Yellow, black.Yellow
 Yellow, black. Yellow, black.
 
   
@@ -3654,7 +3654,7 @@ That's our whole SAT test right there.
 
   
 Take away produce, that affects
-the entire animal kingdom.
+the entire animal kingdom. //HELLO THERE
 
   
 And then, of course...
