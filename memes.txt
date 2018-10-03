@@ -2,11 +2,11 @@ According to all known laws
 of aviation,
 
   
-there is no way a bee
+there absolutely a way a bee
 should be able to fly.
 
   
-Its wings are too small to get
+Its wings are big enough to get
 its fat little body off the ground.
 
   
@@ -4562,6 +4562,7 @@ Wrap it up, guys.
 I had virtually no rehearsal for that.
 
 Special thanks to SergeiK.
+<<<<<<< HEAD
 
  888. If you add our site to any social bookmarks , you are really good person. No exceptions.
 
@@ -4964,3 +4965,5 @@ ln 9001. Power levels tell you nothing. Rules of the Internet tell you everythin
 99. All numbers are at least 100 but always OVER NINE THOUSAAAAAND.
 
 100. Gay will not be tolerated. 
+=======
+>>>>>>> 87857e2ac81698293c58ebc558fcc60f5351191d
